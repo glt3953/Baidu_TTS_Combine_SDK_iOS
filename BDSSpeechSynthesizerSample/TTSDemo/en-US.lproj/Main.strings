@@ -1,0 +1,42 @@
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "3iR-gV-U3x"; */
+"3iR-gV-U3x.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GLv-Gn-Axf"; */
+"GLv-Gn-Axf.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "J8Z-49-58O"; */
+"J8Z-49-58O.text" = "Value";
+
+/* Class = "UINavigationItem"; title = "BDTTSDemo"; ObjectID = "M0n-jS-2Ow"; */
+"M0n-jS-2Ow.title" = "BDTTSDemo";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "NFg-HN-NFr"; */
+"NFg-HN-NFr.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Hint"; ObjectID = "PSV-mA-JuE"; */
+"PSV-mA-JuE.placeholder" = "Hint";
+
+/* Class = "UILabel"; text = "Enable"; ObjectID = "UZf-20-IdE"; */
+"UZf-20-IdE.text" = "Enable";
+
+/* Class = "UINavigationItem"; title = "TTS config"; ObjectID = "XCU-4N-F7F"; */
+"XCU-4N-F7F.title" = "TTS config";
+
+/* Class = "UIButton"; normalTitle = "Synthesize"; ObjectID = "aKu-EE-29H"; */
+"aKu-EE-29H.normalTitle" = "Synthesize";
+
+/* Class = "UILabel"; text = "Input text:"; ObjectID = "c8h-TX-mGA"; */
+"c8h-TX-mGA.text" = "Input text:";
+
+/* Class = "UILabel"; text = "Progress:"; ObjectID = "ePd-2Q-vzq"; */
+"ePd-2Q-vzq.text" = "Progress:";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "jRn-cq-eye"; */
+"jRn-cq-eye.normalTitle" = "Pause";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tJu-bl-jGO"; */
+"tJu-bl-jGO.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "wKK-m7-YKJ"; */
+"wKK-m7-YKJ.text" = "Name";

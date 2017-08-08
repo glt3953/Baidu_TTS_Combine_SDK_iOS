@@ -1,0 +1,95 @@
+
+
+/* strings for ViewController.m */
+"Config failed" = "设置失败";
+"Offline TTS init failed" = "Offline TTS init failed";
+"Offline TTS load English support failed" = "Offline TTS load English support failed";
+"Add sentence Error" = "Add sentence Error";
+"Error" = "错误";
+"Synthesis doesn't seem to be running so can't pause or resume..." = "Synthesis doesn't seem to be running so can't pause or resume...";
+"OK" = "OK";
+"pause" = "暂停";
+"resume" = "继续";
+"Synthesis failed" = "TTS失败";
+
+/* strings for TTSConfigViewController.m */
+/*offlineSpeakerNames*/
+"None" = " - ";
+"Female" = "女声";
+"Male" = "男声";
+"Undefined" = "无";
+
+/*AUDIO_SESSION_CATEGORY_OPT_NAMES*/
+"Mix with others" = "Mix with others";
+"Duck others" = "Duck others";
+"Allow bluetooth" = "Allow bluetooth";
+"Default to speaker" = "Default to speaker";
+"Interrupt spoken, mix others" = "Interrupt spoken, mix others";
+
+"Failed set synth strategy" = "Failed set synth strategy";
+"Failed set online audio encoding" = "Failed set online audio encoding";
+"Failed set synth strategy" = "Failed set synth strategy";
+"Failed set online TTS speaker" = "Failed set online TTS speaker";
+"Failed reload Chinese speech data" = "Failed reload Chinese speech data";
+"Failed reload English speech data" = "Failed reload English speech data";
+"Failed set offline audio encoding" = "Failed set offline audio encoding";
+"Failed set online TTS threshold" = "Failed set online TTS threshold";
+
+"Audio player settings" = "Audio player settings";
+"Synthesizer general settings" = "Synthesizer general settings";
+"Online Synthesizer Settings" = "Online Synthesizer Settings";
+"Offline Synthesizer Settings" = "Offline Synthesizer Settings";
+
+"Online" = "Online";
+"Online priority" = "Online priority";
+"Offline" = "Offline";
+"Offline priority" = "Offline priority";
+"Unknown" = "Unknown";
+
+"Not offline" = "Not offline";
+"have 3G or better" = "have 3G or better";
+"have 4G or better" = "have 4G or better";
+"have WiFi" = "have WiFi";
+"Unknown" = "Unknown";
+
+"Speech volume" = "Speech volume";
+"Speech speed" = "Speech speed";
+"Speech pitch" = "Speech pitch";
+"Enable speak" = "Enable speak";
+"Read text from tts_text.txt" = "Read text from tts_text.txt";
+"Synthesis strategy" = "Synthesis strategy";
+"Prefer Online TTS when" = "Prefer Online TTS when";
+
+"Female, f7" = "女声, f7";
+"Male, macs" = "男声, macs";
+"Male, m15" = "男声, m15";
+"Male, yyjw" = "男声, yyjw";
+
+"Speaker" = "Speaker";
+"Audio encoding" = "Audio encoding";
+"Custom TTS server URL" = "Custom TTS server URL";
+"Online TTS Request timeout" = "Online TTS Request timeout";
+"Product ID" = "Product ID";
+"App id" = "App id";
+"Volume" = "Volume";
+"Audio session management" = "Audio session management";
+"Category" = "Category";    /* AVAudioSession category*/
+"Audio session category opts" = "Audio session category opts";
+"AV session category options" = "AV session category options";  /*mutli select view title*/
+"Online TTS preferred when" = "Online TTS preferred when"; /*multi select view title*/
+"Online speaker" = "Online speaker"; /*multi select view title*/
+"Online audio encoding" = "Online audio encoding"; /*multi select view title*/
+"Offline speaker" = "Offline speaker"; /*multi select view title*/
+"Offline audio encoding" = "Offline audio encoding"; /*multi select view title*/
+
+"Failed to change audio session management status" = "Failed to change audio session management status";
+"Failed set synth volume" = "Failed set synth volume";
+"Failed set synth speed" = "Failed set synth speed";
+"Failed set synth pitch" = "Failed set synth pitch";
+"Failed set server url" = "Failed set server url";
+"Failed set online tts timeout" = "Failed set online tts timeout";
+
+"Offline TTS init failed" = "Offline TTS init failed";
+"Offline TTS load English support failed" = "Offline TTS load English support failed";
+"Failed set online tts product ID" = "Failed set online tts product ID";
+
